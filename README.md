@@ -26,13 +26,10 @@ This project analyzes trading account data to generate insights into profits, lo
 Trading-account-analysis/
 │
 ├── data/
-│   └── trading_data.csv         # Sample trading data file (replace or update as needed)
+│   └── trading_data.csv         
 │
 ├── analysis/
-│   └── trading_analysis.ipynb   # Jupyter Notebook with full analysis
-│
-├── utils/
-│   └── helpers.py               # Utility functions for data cleaning or calculations
+│   └── trades-Copy1.ipynb   # Jupyter Notebook with full analysis
 │
 └── README.md                    # Project documentation
 ```
@@ -58,7 +55,7 @@ Trading-account-analysis/
    ```
 
 3. Run the notebook:
-   Open `trading_analysis.ipynb` in Jupyter Notebook or any compatible environment.
+   Open `trades-Copy1.ipynb` in Jupyter Notebook or any compatible environment.
 
 ## 📌 Notes
 
@@ -68,7 +65,7 @@ Trading-account-analysis/
 ## 🧠 Future Improvements
 
 - Integration with live brokerage APIs
-- Add Sharpe ratio, Sortino ratio calculations
+- Add Sortino ratio calculations
 - Dashboard for interactive visualization (e.g., using Streamlit)
 
 ## 🧑‍💻 Author
